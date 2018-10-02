@@ -13,6 +13,7 @@ For any doubts and Queries to feel free to send us an email at [pydatagn@gmail.c
 
 Contributions are most welcome ! 
 
+[List of Contributors](CONTRIBUTORS.md)
 
 
 
