@@ -30,12 +30,12 @@ Push to your fork and [submit a pull request][pr].
 At this point you're waiting on us. We like to at least comment on pull requests
 as soon as possible. We may suggest some changes or improvements or alternatives.
 
-For assistance you can reachout to [Contributors][contributors] who have helped bulid and maitain this organistaion.
+For assistance you can reachout to [Contributors][contributors] who have helped build and maintain this organistaion.
 
 [contributors]:
 https://github.com/pydatagn/Community/blob/master/CONTRIBUTORS.md
 
-Some things that will increase the chance that your pull request is accepted:
+Some things that will increase the chance of your pull request being accepted are:
 
 * Follow the [Code of Conduct][code_of_conduct],
 
