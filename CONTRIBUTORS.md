@@ -11,3 +11,4 @@ A mention to all people who have helped build this organisation, by contributing
 * [Varun Gohil](https://github.com/Varun1299)
 * [Apoorv Agnihotri](https://github.com/k0pch4)
 * [Deepanshu Jain](https://github.com/deepanshu-jain1999)
+* [Manas Bedmutha](https://github.com/manasbedmutha98)
